@@ -54,5 +54,6 @@ streamlit run src/ui_streamlit.py
 
 Here is an example of the system output:
 
-![Result Screenshot](assets/result.png)
+![Result Screenshot](assets/results.png)
+
 
